@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "source": "assets/",
+    "dist": "dist/"
+  },
+  "dependencies": {
+    "main.js": {
+      "files": [
+        ["jquery"],
+        ["wow.js"],
+        "js/common.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        ["animate.css"],
+        "scss/core.scss"
+
+      ],
+      "main": true
+    }
+  },
+  "config": {
+    "devUrl": "http://jgi.lc"
+  }
+}

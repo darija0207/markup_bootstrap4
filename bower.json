@@ -1,0 +1,23 @@
+{
+  "name": "Chat",
+  "authors": [
+    "Darija Maslyukova <darija0207@evnedev.com>"
+  ],
+  "description": "Footprint Chat",
+  "main": "js/common.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "bootstrap": "v4.0.0-alpha.6",
+    "wow": "wowjs#^1.1.2",
+    "animate.css": "^3.5.2"
+  }
+}
